@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/token/index.js"],"names":[],"mappings":";;;;;;;;;;;;AAAA","sourcesContent":["export { default as tokenToString } from './tokenToString'\n"],"file":"index.js"}

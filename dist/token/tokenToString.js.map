@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/token/tokenToString.js"],"names":["tokenToString","token","value"],"mappings":";;;;;;;AAAA,MAAMA,aAAa,GAAIC,KAAD,IAAWA,KAAK,CAACC,KAAvC;;eAEeF,a","sourcesContent":["const tokenToString = (token) => token.value\n\nexport default tokenToString\n"],"file":"tokenToString.js"}
